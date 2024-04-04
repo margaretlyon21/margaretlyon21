@@ -20,7 +20,7 @@ me = SoftwareEngineerInTraining()
 me.say_hi()
 ```
   
-Some Languages i'm profficient in:<br>
+Some languages i'm profficient in:<br>
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=red)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=blue)
 ![python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=purple)
