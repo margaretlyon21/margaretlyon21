@@ -29,7 +29,7 @@ I'm currently learning:<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
-### <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+![linkdin](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="margaretlyon" data-version="v1">
   <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/margaretlyon?trk=profile-badge">Margaret Lyon</a>
