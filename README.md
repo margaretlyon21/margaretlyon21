@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 <!--
 **margaretlyon21/margaretlyon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
